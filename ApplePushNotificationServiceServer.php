@@ -85,7 +85,7 @@ class ApplePushNotificationServiceServer {
 
 	public function fire()
 	{
-		$this->log('Weclipse APNS server starting...');
+		$this->log('Acme APNS server starting...');
 		$this->log('connecting to queue on localhost...');
 		$this->redis = new Redis();
 		if ($this->redis->pconnect('127.0.0.1')) {
