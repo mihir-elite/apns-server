@@ -1,7 +1,6 @@
-apns-server
+Apple Push Notification Service PHP Server
 ===========
 
-Apple Push Notification Service PHP Server
 
 Built this server for my company and because it took me some weeks
 to figure everything out, I decided to publish it for others to use.
