@@ -22,4 +22,4 @@ Thre's a working example after the class source code:
 2. Add your certificates as 'apns-dev.pem' and 'apns-prod.pem' and the Entrust certificates 'entrust_root_certification_authority.pem' or 'entrust_2048_ca.cer'
 
 Run as:
-`php ApplePushNotificationServiceServer.php
+`php ApplePushNotificationServiceServer.php`
