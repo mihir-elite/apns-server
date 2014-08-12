@@ -16,11 +16,10 @@ The basic flow of this server is the following:
    production servers
 
 
-Thre's a working example after the class source code.
+Thre's a working example after the class source code:
 
 1. Simply add your Redis endpoint (default is 127.0.0.1)
-2. Add your certificates as 'apns-dev.pem' and 'apns-prod.pem' and
-the Entrust certificates 'entrust_root_certification_authority.pem' or
-'entrust_2048_ca.cer'
+2. Add your certificates as 'apns-dev.pem' and 'apns-prod.pem' and the Entrust certificates 'entrust_root_certification_authority.pem' or 'entrust_2048_ca.cer'
 
-Run as php ApplePushNotificationServiceServer.php
+Run as:
+`php ApplePushNotificationServiceServer.php
