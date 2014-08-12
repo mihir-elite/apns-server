@@ -17,6 +17,7 @@ The basic flow of this server is the following:
 
 
 Thre's a working example after the class source code.
+
 1. Simply add your Redis endpoint (default is 127.0.0.1)
 2. Add your certificates as 'apns-dev.pem' and 'apns-prod.pem' and
 the Entrust certificates 'entrust_root_certification_authority.pem' or
