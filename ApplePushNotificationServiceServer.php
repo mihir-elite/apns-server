@@ -230,7 +230,7 @@ function exampleEnqueuePush() {
 
 	$job = [
 		'message' => $message,
-		'device_id' => '4595f0ab4e95cf6cbd9ecd1020af0d9d6ec69b65a2346b7a1b6ed0999d657aa4',
+		'device_id' => '...',
 	];
 
 	$redis = new Redis();
